@@ -12,9 +12,10 @@
     "webpack": "^4.17.2"
   },
   "dependencies": {
+    "css-loader": "^1.0.0",
     "webpack-cli": "^3.1.0"
   },
-  "script":{
-    "run" : "webpack"
+  "script": {
+    "run": "webpack"
   }
 }
